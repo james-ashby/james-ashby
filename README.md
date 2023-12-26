@@ -1,5 +1,5 @@
 👋 Hi, I’m @james-ashby
-- :man_student: I've recently completed my final year of my Software Engineering degree and am currently employed as .NET Developer!
+- :man_student: I've recently completed my final year of my Software Engineering degree and am currently employed as a .NET Developer!
 - 📖 My dissertation was research into how Agile practices can be used to increase project workflow and effectiveness for individuals! 
      It can be found here https://gitlab.com/james-ashby-fyp/final-year-project-tcg-fan
 - :man_office_worker: I recently completed a year in industry The Walt Disney Company as a Technical Analyst Intern!
