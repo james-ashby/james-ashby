@@ -1,5 +1,5 @@
 👋 Hi, I’m @james-ashby
-- :man_office_worker:: Junior Software Engineer with 1.5 YOE in .NET!
+- :man_office_worker:: Junior Software Engineer specialising in .NET!
 - 📖 Dissertation:
   
      _How Agile practices can be used to increase project workflow and effectiveness for individuals!_
