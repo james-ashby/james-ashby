@@ -1,12 +1,12 @@
-👋 Hi, I’m @james-ashby
-- :man_office_worker:: Junior Software Engineer specialising in .NET!
-- 📖 Dissertation:
+
+- Junior Software Engineer specialising in .NET!
+- Dissertation:
   
      _How Agile practices can be used to increase project workflow and effectiveness for individuals!_
   
      Project and research papers : https://gitlab.com/james-ashby-fyp/final-year-project-tcg-fan
   
-- 📫 Contact via: 
+- Contact via: 
   - LinkedIn: https://www.linkedin.com/in/james-ashby-52253b109/
 
 <!---
