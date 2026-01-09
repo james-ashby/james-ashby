@@ -1,5 +1,5 @@
 
-- Junior Software Engineer specialising in .NET!
+- Junior full-stack Software Engineer!
 - Dissertation:
   
      _How Agile practices can be used to increase project workflow and effectiveness for individuals!_
